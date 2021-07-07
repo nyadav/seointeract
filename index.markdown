@@ -1,9 +1,0 @@
- <iframe
-    id="igraph"
-    scrolling="no"
-    style="border:none;"
-    seamless="seamless"
-    src="https://github.com/nyadav/seointeract/third_figure.html"
-    height="525"
-    width="100%">
- </iframe>
