@@ -3,7 +3,7 @@
     scrolling="no"
     style="border:none;"
     seamless="seamless"
-    src="https://github.com/nyadav/seointeract/uspopscatter.html"
+    src="https://raw.githubusercontent.com/nyadav/seointeract/main/uspopscatter.html"
     height="525"
     width="100%">
  </iframe>
